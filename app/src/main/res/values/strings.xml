@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gas Log</string>
+    <string name="odometerValue">"Odometer Reading (KM)"</string>
+    <string name="gasCostValue">"Cost (Cents/Liter)"</string>
+    <string name="quantity">"Quantity (Liters)"</string>
+    <string name="emptyOdometer">"Requires odometer reading"</string>
+    <string name="emptyGasCost">"Requires cost of gas"</string>
+    <string name="emptyQuantity">"Requires quantity of gas"</string>
+</resources>
